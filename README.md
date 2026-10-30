@@ -91,6 +91,10 @@ We do not encourage spam (perfect for API/n8n automations).
 
 View https://docs.growchief.com
 
+## One-Click Deploy
+
+[![Deploy on RepoCloud](https://d16t0pc4846x52.cloudfront.net/deploylobe.svg)](https://repocloud.io/details/GrowChief/)
+
 ## Sponsorship
 
 This can be very valuable for Proxies / Lead enrichment companies, feel free to check our sponsorship page.
